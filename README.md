@@ -1,7 +1,7 @@
 # Golden Guard — QA & Testes (Azure Boards + Automação)
 ---
 
-## 🔗 Links para correção
+## 🔗 Links
 
 * **Azure Boards / Test Plans**: [https://dev.azure.com/FIAP-QA/Golden%20Guard](https://dev.azure.com/FIAP-QA/Golden%20Guard)
 * **🎥 Vídeo (configuração + execução dos testes de automação)**: [https://youtu.be/7HiKXcg7BLY](https://youtu.be/7HiKXcg7BLY)
